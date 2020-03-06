@@ -1,2 +1,2 @@
-# python
+# python course
 Jupiter Notebooks
