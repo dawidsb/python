@@ -1,1 +1,1 @@
-To jest zdanie z pliku TXT.
+ If closefd is False, the underlying file descriptor will be kept open when the file is closed. This does not work when a file name is given and must be True in that case. A custom opener can be used by passing a callable as *opener*.
